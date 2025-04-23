@@ -1,0 +1,1 @@
+// Här lägger du in din ChatDemo-komponent från canvas
