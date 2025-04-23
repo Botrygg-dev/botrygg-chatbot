@@ -1,1 +1,5 @@
-// Här lägger du in din AdminLogViewer-komponent från canvas
+import ChatDemo from "@/components/ChatDemo";
+
+export default function Home() {
+  return <ChatDemo />;
+}
