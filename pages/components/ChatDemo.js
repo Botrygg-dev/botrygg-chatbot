@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
-
+import React from 'react';
 export default function ChatDemo() {
   const [messages, setMessages] = useState([
     { from: "bot", text: "Hej! Hur kan jag hjälpa dig idag?" }
