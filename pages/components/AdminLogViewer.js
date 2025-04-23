@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-
+import React from 'react';
 export default function AdminLogViewer() {
   const [logs, setLogs] = useState([]);
   const [search, setSearch] = useState("");
