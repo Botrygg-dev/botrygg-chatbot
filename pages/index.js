@@ -1,1 +1,5 @@
-// Här lägger du in din ChatDemo-komponent från canvas
+import ChatDemo from "@/components/ChatDemo";
+
+export default function Home() {
+  return <ChatDemo />;
+}
