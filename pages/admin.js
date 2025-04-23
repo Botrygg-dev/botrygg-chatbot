@@ -1,5 +1,5 @@
-import ChatDemo from "@/components/ChatDemo";
+import AdminLogViewer from "@/components/AdminLogViewer";
 
-export default function Home() {
-  return <ChatDemo />;
+export default function Admin() {
+  return <AdminLogViewer />;
 }
